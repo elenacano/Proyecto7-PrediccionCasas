@@ -1,16 +1,16 @@
-import pandas as pd
+import pandas as pd # type: ignore
 import numpy as np
 
-import seaborn as sns
-import matplotlib.pyplot as plt
+import seaborn as sns # type: ignore
+import matplotlib.pyplot as plt # type: ignore
 
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.tree import DecisionTreeRegressor, plot_tree
-from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.model_selection import train_test_split, GridSearchCV # type: ignore
+from sklearn.tree import DecisionTreeRegressor, plot_tree # type: ignore
+from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error # type: ignore
+from sklearn.ensemble import RandomForestRegressor # type: ignore
+from sklearn.ensemble import GradientBoostingRegressor # type: ignore
 
-from xgboost import XGBRegressor
+from xgboost import XGBRegressor # type: ignore
 
 
 
