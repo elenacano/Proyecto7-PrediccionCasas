@@ -94,6 +94,22 @@ class ProblemaRegresion():
 
         return df_metricas, modelo_grid
 
+    def visualizacion_residuos(self):
+        self.y_test.reset_index(inplace=True, drop=True)
+        df_price_predicted = pd.DataFrame(self.y_test_pred).rename(columns={0:"price_predicted"})
+        df_concatenado = pd.concat([self.y_test, df_price_predicted], axis = 1)
+
+        sns.scatterplot(data=df_concatenado, x=f"{self.variable_respuesta}", y="price_predicted")
+        min_val = min(self.y_test.min()[0], df_price_predicted["price_predicted"].min())
+        max_val = max(self.y_test.max()[0], df_price_predicted["price_predicted"].max())
+
+        # Añadir la línea con pendiente x=y
+        plt.plot([min_val, max_val], [min_val, max_val], color='red', linestyle='--', label='x = y')  # Línea roja
+
+        plt.title("Gráfico de los residuos")
+        plt.xlabel(f"{self.variable_respuesta}")
+        plt.ylabel(f"{self.variable_respuesta} Predicted")
+        plt.show()
 
 
 # class ArbolesDecision(ProblemaRegresion):
