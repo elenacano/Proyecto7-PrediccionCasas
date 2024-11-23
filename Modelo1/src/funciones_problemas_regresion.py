@@ -92,7 +92,7 @@ class ProblemaRegresion():
         self.y_test_pred = modelo_grid.predict(self.X_test)
         df_metricas = self.metricas()
 
-        return df_metricas
+        return df_metricas, modelo_grid
 
 
 
