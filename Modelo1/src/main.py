@@ -30,6 +30,9 @@ one_hot_encoder, target_encoder, standar_scaler, model = load_models()
 st.markdown(
     """
     <style>
+    body {
+    font-family: 'Roboto', sans-serif;
+    }
     .stApp {
         background-color: #ADC2CD; /* Fondo rosa oscuro */
     }

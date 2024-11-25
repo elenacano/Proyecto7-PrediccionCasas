@@ -29,7 +29,7 @@ def estandarizacion(df, col_num, modelos_estand):
         else:
             print("Escalador erroneo, por favor introduzca una de las siguientes opciones:")
             print(" - robust\n - standar\n - minmax\n - normalizer")
-            return
+            break
             
         datos_transf = escalador.fit_transform(df[col_num])
         df[colums_escaladas] = datos_transf
