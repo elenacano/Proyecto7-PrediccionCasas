@@ -39,7 +39,7 @@ Ambas carpetas siguen una misma estructura:
 
 
 ## Lenguaje, librerías y temporalidad
-- El proyecto fué elaborado con Python 3.9 y múltiples librerías de soporte:
+El proyecto fué elaborado con Python 3.9 y múltiples librerías de soporte:
 
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Numpy](https://numpy.org/doc/)
@@ -51,7 +51,7 @@ Ambas carpetas siguen una misma estructura:
 - [warnings](https://docs.python.org/3/library/warnings.html)
 
 
-- Este proyecto es funcional a fecha 24 de noviembre de 2024.
+Este proyecto es funcional a fecha 24 de noviembre de 2024.
 
 
 ## Instalación
