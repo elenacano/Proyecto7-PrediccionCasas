@@ -1,6 +1,6 @@
 # Proyecto 7: Estimación de precios de alquiler de viviendas en la Comunidad de Madrid
 
-<img src="imagenes/portada2.jpg" width="500" height="400">
+<img src="imagenes/portada2.jpg" width="700" height="500">
 
 
 La estimación de los precios inmobiliarios es un área crucial que combina el análisis de negocios con la ciencia de datos. En este proyecto, se abordará el reto de prever el precio de alquiler de viviendas. El conjunto de datos que utilizarás proviene del mercado inmobiliario de Madrid y contiene información detallada sobre las propiedades, como su superficie, ubicación, número de habitaciones, tipo de inmueble, entre otros aspectos relevantes.
