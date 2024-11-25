@@ -1,14 +1,12 @@
-# Proyecto 7: Predicción de precios de alquileres residenciales en la Comunidad de Madrid
+# Proyecto 7: Estimación de precios de alquiler de viviendas en la Comunidad de Madrid
 
 ![imagen](imagenes/portada.jpg)
 
 
-## Planteamiento del problema: **predicción de los precios la vivienda de alquiler.**
-
 La estimación de los precios inmobiliarios es un área crucial que combina el análisis de negocios con la ciencia de datos. En este proyecto, se abordará el reto de prever el precio de alquiler de viviendas. El conjunto de datos que utilizarás proviene del mercado inmobiliario de Madrid y contiene información detallada sobre las propiedades, como su superficie, ubicación, número de habitaciones, tipo de inmueble, entre otros aspectos relevantes.
 
 
-## Objetivos del Proyecto
+## Objetivos
 
 1. **Preprocesamiento**: Abarca todas las etapas de preparación de los datos: EDA, gestión de nulos, encoding, outliers y estandarización.
 
