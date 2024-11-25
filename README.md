@@ -1,6 +1,6 @@
 # Proyecto 7: Predicción de precios de alquileres residenciales en la Comunidad de Madrid
 
-![imagen](imagenes/portada.png)
+![imagen](imagenes/portada.jpg)
 
 
 ## Planteamiento del problema: **predicción de los precios la vivienda de alquiler.**
