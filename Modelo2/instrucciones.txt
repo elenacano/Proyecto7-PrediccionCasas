@@ -1,0 +1,7 @@
+Se ha cambiado respecto al anterior: 
+
+- Hemos quitado las casas de menos de 500 euros en los outliers.
+- Se ha hecho un encoding un poco más a mano.
+
+Conclusiones:
+- Sigue igual de mal o peor, nos quedamos con el anterior.

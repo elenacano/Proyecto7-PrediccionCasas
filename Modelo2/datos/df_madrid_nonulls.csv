@@ -1,0 +1,353 @@
+,price,propertyType,size,exterior,rooms,bathrooms,municipality,distance,floor,hasLift
+0,750.0,flat,60.0,True,1,1,Madrid,7037,3,True
+1,750.0,flat,70.0,True,2,1,San Sebastián de los Reyes,16145,bj,False
+2,400.0,penthouse,67.0,True,2,2,Villamanrique de Tajo,55041,2,False
+3,590.0,flat,70.0,True,3,2,Rascafría,56596,sin informacion,False
+4,684.0,studio,45.0,True,0,1,Madrid,10656,sin informacion,sin informacion
+5,600.0,flat,73.0,True,2,1,Manzanares el Real,37062,3,False
+6,600.0,duplex,71.0,True,1,1,Miraflores de la Sierra,44126,1,False
+7,550.0,flat,53.0,True,1,1,Madrid,4008,1,False
+8,700.0,studio,28.0,True,0,1,Madrid,5569,1,False
+9,700.0,duplex,86.0,True,2,1,Galapagar,31153,3,True
+10,700.0,flat,45.0,False,1,1,Madrid,2046,5,False
+11,550.0,flat,54.0,True,2,1,Arganda,26233,en,False
+12,695.0,flat,64.0,True,2,1,San Sebastián de los Reyes,15747,1,False
+13,650.0,flat,68.0,True,2,1,San Lorenzo de el Escorial,42410,bj,False
+14,700.0,flat,30.0,False,1,1,Madrid,3247,1,True
+15,700.0,flat,35.0,False,1,1,Madrid,1894,1,False
+16,700.0,flat,43.0,True,1,1,Madrid,4442,2,True
+17,650.0,flat,60.0,True,2,1,Madrid,3985,1,False
+18,650.0,chalet,206.0,False,3,1,Aldea del Fresno,43195,sin informacion,sin informacion
+19,700.0,flat,105.0,True,3,2,Aranjuez,44003,bj,False
+20,695.0,flat,40.0,False,1,1,Madrid,2271,4,True
+21,675.0,flat,40.0,True,1,1,Villanueva del Pardillo,23556,bj,False
+22,750.0,studio,45.0,False,0,1,Madrid,1027,bj,True
+23,750.0,flat,99.0,True,3,2,Aranjuez,43492,1,True
+24,680.0,flat,38.0,False,1,1,Madrid,2591,1,True
+25,750.0,flat,51.0,True,1,1,Madrid,11896,1,True
+26,750.0,penthouse,60.0,True,1,1,Las Rozas de Madrid,21316,2,False
+27,750.0,studio,25.0,False,0,1,Madrid,533,4,True
+28,750.0,flat,40.0,False,1,1,Madrid,1989,1,False
+29,650.0,flat,62.0,True,2,1,Madrid,7841,1,False
+30,750.0,studio,30.0,True,0,1,Madrid,935,3,False
+31,750.0,flat,39.0,False,1,1,Madrid,2036,5,False
+32,700.0,flat,62.0,True,2,1,Madrid,8492,3,False
+33,747.0,flat,96.0,True,3,2,Navalcarnero,26611,1,True
+34,640.0,studio,35.0,True,0,1,Madrid,7324,1,True
+35,750.0,flat,30.0,False,1,1,Madrid,2133,st,True
+36,750.0,flat,70.0,True,2,1,Alcalá de Henares,28703,2,True
+37,625.0,flat,52.0,True,2,1,El Escorial,40445,2,False
+38,700.0,studio,40.0,True,0,1,Madrid,1431,3,True
+39,750.0,studio,40.0,True,0,1,Madrid,2417,en,True
+40,650.0,flat,35.0,False,1,1,Madrid,1121,2,True
+41,720.0,flat,70.0,True,3,1,Alcalá de Henares,29099,2,False
+42,699.0,flat,52.0,True,1,1,Madrid,7092,3,True
+43,750.0,flat,65.0,True,2,1,Leganés,13081,sin informacion,True
+44,695.0,flat,65.0,True,2,1,Coslada,13904,sin informacion,True
+45,750.0,flat,78.0,True,2,2,Torrejón de Ardoz,19719,sin informacion,True
+46,620.0,flat,60.0,True,2,1,Madrid,7981,sin informacion,False
+47,500.0,studio,28.0,False,0,1,Madrid,769,1,False
+48,550.0,flat,38.0,True,1,1,Leganés,10938,sin informacion,False
+49,750.0,flat,46.0,False,1,1,Madrid,1476,3,True
+50,680.0,studio,55.0,True,0,1,Madrid,5097,bj,False
+51,700.0,flat,50.0,True,1,2,Camarma de Esteruelas,32052,sin informacion,sin informacion
+52,750.0,duplex,35.0,True,1,1,Madrid,4047,sin informacion,sin informacion
+53,750.0,flat,66.0,True,2,1,Alcorcón,13311,1,True
+54,650.0,flat,65.0,True,1,1,Alcalá de Henares,29440,en,True
+55,720.0,flat,133.0,False,3,2,Pinto,19453,1,True
+56,600.0,flat,50.0,True,1,1,Valdemoro,24430,sin informacion,True
+57,650.0,flat,61.0,True,1,1,Collado Villalba,34886,2,True
+58,650.0,flat,65.0,False,2,1,Alcorcón,11537,3,False
+59,700.0,flat,45.0,True,1,1,Madrid,12321,3,False
+60,625.0,flat,62.0,True,2,1,Getafe,11666,bj,False
+61,595.0,flat,45.0,True,1,1,Madrid,4543,bj,False
+62,650.0,flat,55.0,True,1,1,Madrid,10495,4,True
+63,725.0,flat,50.0,True,1,1,Madrid,7708,2,True
+64,750.0,flat,95.0,True,3,1,Alcalá de Henares,28483,8,True
+65,700.0,penthouse,30.0,True,1,1,Madrid,12049,1,True
+66,700.0,flat,27.0,False,1,1,Madrid,1391,3,False
+67,650.0,flat,59.0,True,2,1,Alcalá de Henares,30562,1,True
+68,550.0,flat,40.0,True,1,1,Paracuellos de Jarama,17750,3,True
+69,650.0,flat,55.0,True,1,1,Madrid,10296,4,True
+70,750.0,flat,65.0,True,2,1,Madrid,5580,sin informacion,True
+71,725.0,flat,70.0,True,2,1,Madrid,4117,sin informacion,True
+72,700.0,flat,80.0,True,1,1,Alcalá de Henares,29460,1,False
+73,650.0,flat,40.0,True,1,1,Madrid,12224,bj,True
+74,695.0,flat,90.0,True,3,1,Madrid,7729,sin informacion,False
+75,750.0,flat,55.0,True,1,1,Madrid,6017,sin informacion,False
+76,650.0,flat,65.0,True,2,1,Madrid,7559,sin informacion,True
+77,666.0,flat,70.0,True,1,2,Villanueva del Pardillo,24862,1,True
+78,750.0,flat,78.0,True,2,2,Alcalá de Henares,29976,sin informacion,True
+79,630.0,flat,74.0,True,3,1,El Molar,36483,sin informacion,True
+80,635.0,studio,55.0,True,0,1,Leganés,14528,2,True
+81,725.0,flat,69.0,True,2,1,Collado Villalba,35892,1,True
+82,750.0,flat,35.0,False,1,1,Madrid,859,1,False
+83,690.0,flat,65.0,True,2,1,Madrid,4724,3,False
+84,700.0,studio,30.0,False,0,1,Madrid,1041,2,True
+85,730.0,flat,64.0,True,3,1,Parla,20235,1,False
+86,750.0,flat,51.0,True,1,1,Madrid,3436,1,True
+87,750.0,flat,48.0,False,1,1,Tres Cantos,20526,4,True
+88,690.0,flat,35.0,True,1,1,Madrid,4802,sin informacion,False
+89,750.0,flat,74.0,True,3,1,Alcorcón,13017,4,True
+90,700.0,duplex,35.0,True,1,1,Madrid,852,bj,False
+91,720.0,flat,42.0,True,1,1,Madrid,8333,4,True
+92,595.0,flat,55.0,True,1,1,Quijorna,29699,1,False
+93,700.0,flat,45.0,False,1,1,Madrid,1113,1,False
+94,500.0,flat,45.0,True,1,1,Valdemorillo,32188,sin informacion,False
+95,700.0,flat,75.0,True,2,1,Aranjuez,43915,1,False
+96,675.0,duplex,87.0,True,2,2,Miraflores de la Sierra,44503,2,False
+97,650.0,flat,45.0,True,1,1,Pedrezuela,37741,bj,False
+98,750.0,studio,55.0,True,0,1,Madrid,918,2,True
+99,720.0,studio,45.0,True,0,1,San Sebastián de los Reyes,15433,5,True
+100,624.0,flat,45.0,True,1,1,Valdemoro,24077,sin informacion,True
+101,633.0,flat,45.0,True,1,1,Valdemoro,24077,sin informacion,True
+102,640.0,studio,33.0,True,0,1,Madrid,11189,2,True
+103,645.0,flat,84.0,True,2,2,Aranjuez,43827,2,True
+104,750.0,flat,46.0,False,1,1,Madrid,1069,3,False
+105,735.0,studio,35.0,True,0,1,Madrid,11088,1,True
+106,600.0,flat,55.0,True,1,1,Daganzo de Arriba,25189,sin informacion,sin informacion
+107,750.0,flat,75.0,True,3,1,Madrid,8286,sin informacion,False
+108,600.0,penthouse,25.0,True,1,1,Madrid,183,5,True
+109,705.0,flat,48.0,True,1,1,Madrid,11472,4,True
+110,650.0,flat,62.0,True,2,1,Guadarrama,43229,3,False
+111,700.0,duplex,61.0,True,2,1,Cobeña,23917,1,False
+112,650.0,studio,40.0,False,0,1,Madrid,5088,en,True
+113,700.0,flat,40.0,True,1,1,Madrid,3076,bj,False
+114,730.0,flat,51.0,True,2,1,Madrid,6767,4,False
+115,750.0,flat,50.0,True,2,1,Madrid,8331,3,False
+116,680.0,flat,56.0,True,2,1,Torrejón de Ardoz,19298,3,False
+117,710.0,flat,78.0,True,3,1,Parla,21617,4,False
+118,720.0,flat,47.0,True,2,1,Madrid,7088,1,False
+119,750.0,studio,43.0,True,0,1,Madrid,5332,sin informacion,True
+120,695.0,studio,40.0,True,0,1,Madrid,12376,sin informacion,True
+121,630.0,flat,54.0,True,1,2,El Álamo,32432,sin informacion,sin informacion
+122,750.0,flat,90.0,True,3,1,Algete,26401,sin informacion,True
+123,730.0,flat,50.0,True,1,1,Madrid,8717,2,True
+124,600.0,flat,90.0,True,3,1,Valdemoro,25182,sin informacion,True
+125,650.0,studio,45.0,True,0,1,Madrid,5656,bj,True
+126,750.0,flat,38.0,False,1,1,Madrid,470,bj,True
+127,730.0,flat,50.0,True,1,1,Rivas-Vaciamadrid,16410,sin informacion,True
+128,735.0,studio,30.0,True,0,1,Madrid,11188,2,True
+129,610.0,flat,72.0,False,1,1,Pinto,19544,bj,True
+130,580.0,chalet,54.0,False,3,2,Los Santos de la Humosa,39053,sin informacion,sin informacion
+131,725.0,flat,50.0,True,1,1,Villanueva del Pardillo,23787,en,False
+132,750.0,flat,48.0,True,1,1,Madrid,5085,1,False
+133,750.0,flat,70.0,True,3,1,Alcalá de Henares,29660,2,False
+134,750.0,flat,49.0,True,1,1,Madrid,8465,7,True
+135,730.0,flat,60.0,True,3,1,Parla,20948,3,False
+136,560.0,flat,26.0,False,1,1,Madrid,625,bj,False
+137,700.0,studio,23.0,True,0,1,Madrid,1271,sin informacion,sin informacion
+138,750.0,flat,80.0,True,3,1,San Fernando de Henares,14991,2,True
+139,730.0,flat,70.0,True,3,1,Pinto,18781,3,False
+140,730.0,flat,52.0,True,2,1,Madrid,8827,4,False
+141,740.0,flat,64.0,True,2,1,Madrid,8365,3,False
+142,720.0,flat,65.0,True,2,1,Madrid,7511,2,False
+143,720.0,flat,63.0,True,2,1,Torrejón de Ardoz,19731,2,False
+144,740.0,flat,54.0,True,2,1,Madrid,6636,1,True
+145,720.0,flat,52.0,True,2,1,Getafe,12695,3,False
+146,730.0,flat,45.0,True,2,1,Madrid,4385,3,False
+147,600.0,duplex,80.0,False,1,1,Madrid,7223,sin informacion,sin informacion
+148,600.0,duplex,80.0,False,1,1,Madrid,7141,sin informacion,sin informacion
+149,725.0,duplex,71.0,True,2,1,Cobeña,23158,1,False
+150,675.0,flat,76.0,True,3,1,Aldea del Fresno,43485,2,False
+151,750.0,flat,54.0,True,1,1,San Sebastián de los Reyes,15834,3,True
+152,750.0,duplex,79.0,True,2,2,Collado Villalba,34697,1,False
+153,700.0,flat,54.0,True,1,1,Madrid,3354,2,True
+154,750.0,flat,54.0,True,2,1,Madrid,8322,3,False
+155,730.0,flat,48.0,True,2,1,Madrid,6997,3,False
+156,650.0,flat,61.0,True,2,1,Alcalá de Henares,28605,4,False
+157,730.0,flat,63.0,True,2,1,Madrid,7893,1,False
+158,720.0,flat,50.0,True,2,1,Madrid,7041,2,False
+159,720.0,flat,51.0,True,2,1,Madrid,6973,1,False
+160,750.0,flat,47.0,True,2,1,Madrid,4538,1,False
+161,730.0,flat,50.0,True,2,1,Madrid,7411,3,False
+162,730.0,flat,40.0,True,2,1,Madrid,4201,2,False
+163,670.0,flat,67.0,True,2,1,Valdemoro,25100,1,True
+164,740.0,flat,52.0,True,2,1,Madrid,4862,3,False
+165,720.0,flat,69.0,True,2,1,Alcalá de Henares,29084,1,True
+166,750.0,flat,59.0,True,2,1,Madrid,8400,4,False
+167,740.0,flat,45.0,True,2,1,Madrid,7720,3,False
+168,740.0,flat,60.0,True,2,1,Madrid,6670,1,True
+169,730.0,studio,45.0,False,0,1,Madrid,854,sin informacion,True
+170,620.0,flat,75.0,True,3,1,Parla,21044,sin informacion,True
+171,695.0,flat,67.0,True,2,1,Fuenlabrada,16111,sin informacion,False
+172,650.0,flat,95.0,True,3,1,Navalcarnero,29884,sin informacion,True
+173,675.0,flat,68.0,True,2,1,Alcalá de Henares,30461,sin informacion,True
+174,695.0,flat,65.0,True,2,1,Madrid,8484,sin informacion,False
+175,750.0,flat,111.0,True,2,2,Parla,20583,6,True
+176,675.0,flat,35.0,False,1,1,Madrid,1016,sin informacion,sin informacion
+177,730.0,flat,60.0,False,3,1,Parla,20756,3,False
+178,690.0,flat,85.0,True,2,1,Parla,20804,sin informacion,True
+179,750.0,flat,45.0,False,1,1,Madrid,5089,bj,False
+180,600.0,studio,32.0,True,0,1,Madrid,6325,1,True
+181,723.0,studio,25.0,True,0,1,Rivas-Vaciamadrid,16775,sin informacion,True
+182,725.0,flat,50.0,True,1,1,Madrid,10503,1,True
+183,750.0,flat,67.0,True,3,1,Getafe,11657,sin informacion,sin informacion
+184,600.0,flat,45.0,True,2,1,Mataelpino,41003,sin informacion,sin informacion
+185,750.0,flat,70.0,True,3,1,San Fernando de Henares,14642,2,False
+186,450.0,penthouse,60.0,True,1,1,Villa del Prado,53238,sin informacion,False
+187,720.0,flat,54.0,True,1,1,Madrid,3296,bj,False
+188,550.0,penthouse,75.0,True,2,2,Villa del Prado,53247,sin informacion,False
+189,720.0,flat,49.0,False,3,1,Madrid,8411,3,False
+190,740.0,flat,65.0,True,3,1,Madrid,8443,1,True
+191,660.0,flat,155.0,False,3,2,Aranjuez,41119,sin informacion,sin informacion
+192,720.0,flat,56.0,False,2,1,Madrid,6691,4,False
+193,650.0,flat,31.0,False,1,1,Madrid,1207,3,False
+194,650.0,flat,96.0,True,2,1,Aranjuez,43953,3,False
+195,660.0,flat,168.0,False,4,2,Aranjuez,41221,3,True
+196,690.0,flat,64.0,True,2,1,Alcalá de Henares,30634,bj,False
+197,750.0,studio,25.0,True,0,1,Madrid,3177,5,True
+198,725.0,flat,45.0,True,1,1,Madrid,10508,2,True
+199,620.0,flat,85.0,False,1,1,Pinto,19767,bj,True
+200,590.0,flat,52.0,True,1,1,Los Molinos,44526,bj,False
+201,750.0,penthouse,80.0,True,0,1,Tres Cantos,20818,1,True
+202,720.0,studio,36.0,True,0,1,Madrid,5975,2,True
+203,700.0,flat,82.0,True,2,1,San Lorenzo de el Escorial,42463,3,False
+204,692.0,flat,83.0,True,2,2,Torrejón de Ardoz,20294,sin informacion,True
+205,670.0,flat,79.0,True,2,2,Torrejón de Ardoz,20294,sin informacion,True
+206,609.0,flat,56.0,True,1,1,Alcalá de Henares,30186,bj,True
+207,718.0,flat,86.0,True,2,2,Torrejón de Ardoz,20294,sin informacion,True
+208,694.0,flat,81.0,True,2,2,Torrejón de Ardoz,20294,sin informacion,True
+209,658.0,flat,78.0,True,2,2,Torrejón de Ardoz,20294,sin informacion,True
+210,750.0,flat,36.0,False,2,1,Madrid,3620,2,True
+211,723.0,flat,88.0,True,2,2,Torrejón de Ardoz,20294,sin informacion,True
+212,728.0,flat,91.0,True,2,2,Torrejón de Ardoz,20294,sin informacion,True
+213,650.0,studio,28.0,True,0,1,Madrid,4920,bj,False
+214,750.0,flat,60.0,False,2,1,Alcalá de Henares,29663,1,False
+215,735.0,flat,60.0,True,3,1,Parla,20886,4,False
+216,699.0,penthouse,78.0,True,2,1,Colmenar Viejo,27684,2,False
+217,725.0,flat,67.0,True,3,1,Móstoles,17191,4,False
+218,740.0,flat,77.0,True,3,2,Alcalá de Henares,28385,bj,True
+219,720.0,flat,73.0,True,1,1,Collado Villalba,34761,2,True
+220,750.0,flat,79.0,True,3,1,Getafe,11728,en,True
+221,710.0,flat,66.0,True,3,1,Parla,20588,4,False
+222,725.0,flat,62.0,True,2,1,Madrid,7748,3,False
+223,750.0,flat,46.0,False,1,1,Madrid,5680,bj,False
+224,750.0,flat,61.0,True,2,1,Madrid,3161,1,True
+225,730.0,flat,161.0,True,4,1,Aranjuez,44159,3,False
+226,720.0,flat,110.0,False,2,1,Parla,21417,sin informacion,True
+227,720.0,flat,48.0,False,2,1,Madrid,3551,bj,False
+228,700.0,flat,57.0,False,2,1,Madrid,8410,4,False
+229,750.0,duplex,75.0,True,2,2,Cobeña,24176,1,False
+230,610.0,studio,26.0,False,0,1,Madrid,5343,3,True
+231,740.0,flat,52.0,False,2,1,Móstoles,17525,4,False
+232,715.0,flat,62.0,True,2,1,Colmenar Viejo,26558,bj,True
+233,550.0,flat,57.0,False,2,1,Aranjuez,43521,bj,False
+234,710.0,flat,36.0,True,1,1,Madrid,1315,bj,False
+235,730.0,flat,51.0,True,2,1,Madrid,8093,2,False
+236,750.0,studio,23.0,True,0,1,Madrid,1367,8,True
+237,690.0,flat,33.0,False,1,1,Madrid,5232,3,True
+238,740.0,flat,73.0,True,3,1,Parla,21838,4,True
+239,750.0,duplex,66.0,True,1,1,Madrid,5627,bj,True
+240,720.0,flat,44.0,False,3,1,Madrid,8176,2,False
+241,475.0,flat,79.0,True,2,2,Navalafuente,45077,2,True
+242,740.0,flat,41.0,True,2,1,Madrid,4787,2,False
+243,740.0,flat,57.0,True,1,1,Madrid,3642,1,True
+244,740.0,flat,62.0,True,2,1,Colmenar Viejo,26890,1,True
+245,700.0,flat,74.0,False,2,1,Getafe,9950,4,False
+246,730.0,flat,35.0,False,1,1,Madrid,760,2,True
+247,700.0,studio,28.0,True,0,1,Madrid,9700,3,True
+248,600.0,chalet,180.0,False,3,2,Meco,35543,sin informacion,sin informacion
+249,750.0,flat,109.0,True,2,2,Valdemoro,24455,3,True
+250,749.0,flat,38.0,True,1,1,Madrid,6506,2,True
+251,700.0,studio,30.0,False,0,1,Madrid,2411,bj,True
+252,667.0,flat,70.0,True,1,1,Parla,21185,8,True
+253,725.0,flat,45.0,False,1,1,Madrid,10398,1,True
+254,550.0,penthouse,70.0,True,3,1,Robledo de Chavela,47595,3,False
+255,695.0,flat,55.0,True,3,1,Parla,19765,4,False
+256,750.0,flat,105.0,True,3,1,Campo Real,28810,1,False
+257,750.0,studio,32.0,True,0,1,Madrid,5006,14,True
+258,730.0,flat,80.0,True,3,1,Collado Villalba,35774,4,False
+259,710.0,flat,30.0,True,1,1,Madrid,1156,bj,False
+260,650.0,flat,58.0,True,1,1,Madrid,5924,4,True
+261,600.0,countryHouse,60.0,False,2,2,Villaviciosa de Odón,23776,sin informacion,sin informacion
+262,740.0,flat,41.0,True,2,1,Madrid,8358,3,False
+263,525.0,flat,40.0,True,1,1,Aranjuez,43059,3,True
+264,750.0,studio,35.0,True,0,1,Madrid,1272,4,False
+265,750.0,flat,74.0,True,3,1,Alcalá de Henares,29245,2,True
+266,710.0,flat,69.0,True,3,1,Alcalá de Henares,28440,5,True
+267,560.0,studio,46.0,True,0,1,Madrid,3786,bj,False
+268,600.0,flat,42.0,True,1,1,Torrejón de Ardoz,18905,bj,False
+269,720.0,flat,44.0,True,1,1,Madrid,3589,ss,False
+270,750.0,flat,60.0,True,2,1,Madrid,2591,sin informacion,False
+271,750.0,flat,42.0,False,1,1,Madrid,2762,4,True
+272,750.0,studio,90.0,True,0,1,Madrid,7228,4,True
+273,650.0,studio,45.0,False,0,1,Madrid,3807,bj,True
+274,650.0,flat,59.0,True,1,1,Parla,20637,2,True
+275,670.0,flat,75.0,True,2,1,Arganda,27056,3,True
+276,650.0,flat,45.0,True,1,1,Getafe,12383,2,True
+277,750.0,flat,32.0,True,1,1,Madrid,5339,2,True
+278,725.0,flat,50.0,True,1,1,Madrid,5564,sin informacion,sin informacion
+279,620.0,studio,20.0,False,0,1,Madrid,1893,1,True
+280,680.0,flat,35.0,True,1,1,Madrid,3308,bj,False
+281,750.0,flat,87.0,True,3,1,Coslada,12519,bj,True
+282,670.0,flat,53.0,True,1,1,Getafe,12383,1,True
+283,600.0,flat,75.0,True,3,1,Alcalá de Henares,28756,sin informacion,sin informacion
+284,750.0,flat,70.0,True,2,1,Alcorcón,12614,4,False
+285,700.0,flat,36.0,True,2,1,Pozuelo de Alarcón,9525,3,False
+286,695.0,flat,58.0,False,1,1,Madrid,5659,1,True
+287,710.0,flat,66.0,True,1,1,Arganda,25013,2,True
+288,620.0,flat,80.0,True,2,1,Bustarviejo,49280,2,False
+289,700.0,flat,80.0,True,3,1,Collado Mediano,40907,1,False
+290,715.0,flat,89.0,True,3,1,Chinchón,39316,bj,False
+291,750.0,flat,50.0,True,1,1,Madrid,11203,1,True
+292,750.0,flat,45.0,True,1,1,Madrid,8426,2,True
+293,550.0,studio,25.0,False,0,1,Madrid,4650,bj,False
+294,730.0,flat,60.0,True,1,1,Colmenar Viejo,27803,sin informacion,False
+295,750.0,penthouse,46.0,True,2,1,Madrid,3889,4,True
+296,700.0,flat,45.0,True,1,1,Coslada,13887,bj,False
+297,680.0,flat,85.0,True,2,1,Coslada,13303,bj,True
+298,600.0,flat,28.0,False,1,1,Madrid,4418,4,False
+299,750.0,flat,80.0,True,2,1,Colmenarejo,30995,1,False
+300,700.0,flat,62.0,True,1,1,Alcorcón,13040,2,True
+301,690.0,flat,77.0,True,2,1,Madrid,7283,bj,True
+302,700.0,flat,50.0,True,1,1,Madrid,7844,bj,False
+303,750.0,flat,87.0,True,2,1,Coslada,13773,5,True
+304,735.0,flat,51.0,True,1,1,Getafe,14023,4,True
+305,700.0,flat,80.0,True,3,1,Móstoles,17777,5,True
+306,725.0,flat,75.0,True,3,1,Fuenlabrada,16247,sin informacion,False
+307,733.0,flat,68.4,True,2,1,Alcalá de Henares,28541,2,True
+308,750.0,flat,36.0,True,1,1,Madrid,4237,bj,True
+309,675.0,flat,69.0,True,2,1,Madrid,5656,bj,False
+310,650.0,flat,85.0,True,2,1,Guadarrama,43066,2,False
+311,730.0,flat,52.0,True,1,1,Madrid,5879,bj,True
+312,700.0,flat,97.0,True,1,1,Loeches,24605,bj,True
+313,690.0,studio,38.0,False,0,1,Madrid,5798,2,True
+314,700.0,flat,70.0,True,2,1,Guadarrama,43166,1,False
+315,600.0,duplex,89.0,True,2,2,Miraflores de la Sierra,44474,2,False
+316,700.0,studio,25.0,False,0,1,Madrid,691,bj,False
+317,690.0,flat,60.0,True,2,1,Sevilla la Nueva,29005,bj,False
+318,750.0,duplex,114.0,True,3,3,Serranillos del Valle,28099,1,False
+319,700.0,studio,51.0,True,0,1,Madrid,8471,bj,False
+320,670.0,flat,61.0,True,1,1,Collado Villalba,35136,bj,True
+321,750.0,flat,80.0,True,2,1,Valdemoro,25085,4,True
+322,740.0,studio,33.0,True,0,1,Madrid,8322,bj,True
+323,750.0,flat,110.0,True,4,2,Colmenar Viejo,27976,1,False
+324,750.0,flat,62.0,True,2,1,Madrid,5703,3,False
+325,750.0,studio,70.0,True,0,1,San Sebastián de los Reyes,16273,bj,True
+326,650.0,studio,28.0,True,0,1,Madrid,5399,bj,False
+327,625.0,flat,51.0,True,1,1,Arganda,25010,2,True
+328,700.0,flat,35.0,True,1,1,Madrid,2266,bj,True
+329,750.0,flat,95.0,True,2,2,Colmenarejo,30759,1,False
+330,600.0,studio,25.0,False,0,1,Madrid,3812,bj,False
+331,750.0,flat,89.0,True,2,2,Getafe,12878,2,True
+332,700.0,flat,55.0,True,1,1,Valdemorillo,32004,1,True
+333,750.0,flat,90.0,True,3,2,Campo Real,28736,2,True
+334,750.0,flat,48.0,True,2,1,Madrid,6832,2,True
+335,625.0,flat,57.0,True,2,1,Aranjuez,43647,bj,False
+336,750.0,flat,46.0,True,1,1,San Sebastián de los Reyes,16127,1,False
+337,695.0,flat,59.0,True,1,1,Madrid,8595,4,True
+338,450.0,flat,40.0,True,1,1,Robledo de Chavela,46273,1,False
+339,720.0,flat,58.0,True,2,1,Alcorcón,13451,bj,False
+340,745.0,flat,73.0,True,2,1,Alcalá de Henares,28800,2,True
+341,720.0,flat,69.6,True,2,1,Alcalá de Henares,28624,2,True
+342,750.0,flat,55.0,True,2,1,Madrid,7462,1,False
+343,720.0,studio,48.0,True,0,1,Madrid,5808,1,True
+344,725.0,studio,44.0,False,0,1,Madrid,1140,8,True
+345,750.0,flat,80.0,False,2,1,Madrid,8011,5,True
+346,550.0,flat,86.0,True,2,1,Torrelaguna,47448,1,True
+347,640.0,flat,69.0,True,2,1,Villalbilla,29311,2,True
+348,700.0,flat,54.0,True,1,1,Getafe,11656,1,True
+349,700.0,flat,59.0,True,1,1,Madrid,7529,6,True
+350,700.0,flat,75.0,True,2,1,Alcalá de Henares,30359,1,False
+351,695.0,flat,62.0,False,2,1,Alcobendas,15162,3,False
